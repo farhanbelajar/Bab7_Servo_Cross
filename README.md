@@ -267,9 +267,21 @@ func main() {
 	fmt.Println("DB Terhubung")
 }
 ```
+hasil untuk post
+<p align="center">
+  <img src="assets/image%20(4).png" width="500">
+</p>
 
-hasilnya 
+hasil untuk put
 <p align="center">
   <img src="assets/image%20(6).png" width="500">
 </p>
+
+hasil untuk get
+<p align="center">
+  <img src="assets/image%20(7).png" width="500">
+</p>
+
+
+
 
