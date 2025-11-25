@@ -1,3 +1,9 @@
+Untuk Struktur Filenya
+<p align="center">
+  <img src="assets/StrukturFile.png" width="500">
+</p>
+
+
 Buat Project
 ```
 go mod init [nama_project]
