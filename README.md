@@ -1,3 +1,21 @@
+Buat Project
+```
+go mod init [nama_project]
+``` 
+Download 5 Library
+```
+go get -u "github.com/gin-gonic/gin" 
+go get -u "github.com/lib/pq" 
+go get -u "github.com/rubenv/sql-migrate" 
+go get -u "github.com/joho/godotenv" 
+go get -u "github.com/gin-contrib/cors"
+```
+Fungsi:
+Mengatasi error CORS ketika API diakses oleh frontend (Flutter, React, JS).
+Biasanya dipakai agar request dari frontend tidak diblokir oleh browser.
+
+
+
 Codingan 1_initiate.sql
 
 ```sql
