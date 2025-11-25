@@ -2,7 +2,7 @@ Buat Project
 ```
 go mod init [nama_project]
 ``` 
-Download 5 Library
+Download 5 ibrary (module) Golang
 ```
 go get -u "github.com/gin-gonic/gin" 
 go get -u "github.com/lib/pq" 
