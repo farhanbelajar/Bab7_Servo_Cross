@@ -1,6 +1,6 @@
 Untuk Struktur Filenya
 <p align="center">
-  <img src="assets/StrukturFile.png" width="500">
+  <img src="assets/StrukturFile.png" width="200">
 </p>
 
 
