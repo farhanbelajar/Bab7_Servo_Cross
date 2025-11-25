@@ -267,3 +267,9 @@ func main() {
 	fmt.Println("DB Terhubung")
 }
 ```
+
+hasilnya 
+<p align="center">
+  <img src="assets/image%20(6).png" width="500">
+</p>
+
