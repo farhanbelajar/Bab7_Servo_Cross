@@ -3,7 +3,7 @@
 Pada sistem ini digunakan arsitektur microservice, di mana setiap fungsi utama dipisahkan ke dalam service yang berdiri sendiri. Service Servo dan Service RFID memiliki kode program, endpoint API, serta struktur folder yang terpisah, sehingga dapat dijalankan, dikembangkan, dan diperbaiki secara independen. Pemisahan ini membuat sistem menjadi lebih fleksibel, mudah di-maintenance, dan tidak saling bergantung satu sama lain meskipun menggunakan database yang sama.
 
 <p align="center">
-  <img src="assets/image%20(4).png" width="200">
+  <img src="assets/image%20(4).png" width="500">
 </p>
 
 Untuk Struktur Filenya
